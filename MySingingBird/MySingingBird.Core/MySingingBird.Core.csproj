@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A82F4F66-3E7F-49D2-9BB9-D840070026A6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MySingingBird.Core</RootNamespace>
+    <AssemblyName>MySingingBird.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\packages\AutoMapper.2.0.0\lib\net40-client\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.4.2.0.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap">
+      <HintPath>..\packages\structuremap.2.6.3\lib\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Application\AppSettings.cs" />
+    <Compile Include="Application\IAppSettings.cs" />
+    <Compile Include="Entities\GeoInfo.cs" />
+    <Compile Include="Entities\ProfileStatus.cs" />
+    <Compile Include="Entities\SearchRequest.cs" />
+    <Compile Include="Entities\SearchResponse.cs" />
+    <Compile Include="Entities\StatusEntities.cs" />
+    <Compile Include="Entities\TwitterFollowers.cs" />
+    <Compile Include="Entities\TwitterFriends.cs" />
+    <Compile Include="Entities\TwitterStatusItem.cs" />
+    <Compile Include="Entities\TwitterUser.cs" />
+    <Compile Include="Helpers\NullCheckHelper.cs" />
+    <Compile Include="Http\HttpServer.cs" />
+    <Compile Include="Http\IHttpRequestResponse.cs" />
+    <Compile Include="Http\IHttpServer.cs" />
+    <Compile Include="Http\HttpRequestResponse.cs" />
+    <Compile Include="Map\AutoMapperTask.cs" />
+    <Compile Include="Map\IAutoMapperTask.cs" />
+    <Compile Include="Map\IMapStatus.cs" />
+    <Compile Include="Map\MapStatus.cs" />
+    <Compile Include="Map\SearchRequestProfile.cs" />
+    <Compile Include="Map\IMapSearch.cs" />
+    <Compile Include="Map\IMapUser.cs" />
+    <Compile Include="Map\MapSearch.cs" />
+    <Compile Include="Map\MapUser.cs" />
+    <Compile Include="Map\SearchResponseProfile.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\ISigningHelper.cs" />
+    <Compile Include="Security\SigningHelper.cs" />
+    <Compile Include="Services\AnalyzeStatusesService.cs" />
+    <Compile Include="Services\IAnalyzeStatusesService.cs" />
+    <Compile Include="Services\IMathService.cs" />
+    <Compile Include="Services\ITwitterSearchService.cs" />
+    <Compile Include="Services\ITwitterStatusService.cs" />
+    <Compile Include="Services\MathService.cs" />
+    <Compile Include="Services\ResultType.cs" />
+    <Compile Include="Services\TwitterSearchService.cs" />
+    <Compile Include="Services\IOAuthCreationService.cs" />
+    <Compile Include="Services\ITwitterService.cs" />
+    <Compile Include="Services\IWhosNotFollowing.cs" />
+    <Compile Include="Services\OAuthCreationService.cs" />
+    <Compile Include="Services\TwitterService.cs" />
+    <Compile Include="Services\TwitterStatusService.cs" />
+    <Compile Include="ViewModel\TwitterStatusViewModel.cs" />
+    <Compile Include="Services\WhosNotFollowing.cs" />
+    <Compile Include="Startup\MySingingBirdRegistry.asax.cs" />
+    <Compile Include="Utilities\StringHelpers.cs" />
+    <Compile Include="ViewModel\SearchResultViewModel.cs" />
+    <Compile Include="ViewModel\TwitterSearchViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

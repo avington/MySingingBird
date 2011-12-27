@@ -1,0 +1,12 @@
+C:\Users\stevenmo\documents\visual studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\MySingingBird.Core.dll
+C:\Users\stevenmo\documents\visual studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\MySingingBird.Core.pdb
+C:\Users\stevenmo\documents\visual studio 2010\Projects\MySingingBird\MySingingBird.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stevenmo\documents\visual studio 2010\Projects\MySingingBird\MySingingBird.Core\obj\Debug\MySingingBird.Core.dll
+C:\Users\stevenmo\documents\visual studio 2010\Projects\MySingingBird\MySingingBird.Core\obj\Debug\MySingingBird.Core.pdb
+C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\EntityFramework.dll
+C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\EntityFramework.xml
+C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\AutoMapper.dll
+C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\AutoMapper.xml
+C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\StructureMap.dll
+C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\StructureMap.pdb
+C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\StructureMap.xml

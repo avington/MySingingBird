@@ -1,0 +1,153 @@
+﻿{
+   "completed_in":0.236,
+   "max_id":135906495513640960,
+   "max_id_str":"135906495513640960",
+   "next_page":"?page=2&max_id=135906495513640960&q=grace&geocode=-80.19084%2C26.209278%2C10mi&rpp=5&include_entities=1",
+   "page":1,
+   "query":"grace",
+   "refresh_url":"?since_id=135906495513640960&q=grace&geocode=-80.19084%2C26.209278%2C10mi&include_entities=1",
+   "results":[
+      {
+         "created_at":"Mon, 14 Nov 2011 02:26:48 +0000",
+         "entities":{
+
+         },
+         "from_user":"literarylogan",
+         "from_user_id":212330575,
+         "from_user_id_str":"212330575",
+         "geo":null,
+         "location":"usa",
+         "id":135906495513640960,
+         "id_str":"135906495513640960",
+         "iso_language_code":"en",
+         "metadata":{
+            "result_type":"recent"
+         },
+         "profile_image_url":"http://a1.twimg.com/profile_images/1626155680/creeper_normal.png",
+         "source":"&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+         "text":"@MakeMeAFrappe Mine are TobyMac, Mandisa, Casting Crowns, MercyMe, Third Day, Jeremy Camp, Jamie Grace, Laura Story, Franchesca Battistelli",
+         "to_user":"MakeMeAFrappe",
+         "to_user_id":387373480,
+         "to_user_id_str":"387373480"
+      },
+      {
+         "created_at":"Mon, 14 Nov 2011 02:26:45 +0000",
+         "entities":{
+            "hashtags":[
+               {
+                  "text":"NYC",
+                  "indices":[
+                     149,
+                     153
+                  ]
+               }
+            ],
+            "urls":[
+               {
+                  "url":"http://t.co/F0e1ENA0",
+                  "expanded_url":"http://frager.com/?page_id=23",
+                  "display_url":"frager.com/?page_id=23",
+                  "indices":[
+                     128,
+                     148
+                  ]
+               }
+            ]
+         },
+         "from_user":"BonnieBLatino",
+         "from_user_id":25887143,
+         "from_user_id_str":"25887143",
+         "geo":null,
+         "location":"Long Island, New York",
+         "id":135906483165597696,
+         "id_str":"135906483165597696",
+         "iso_language_code":"en",
+         "metadata":{
+            "result_type":"recent"
+         },
+         "profile_image_url":"http://a2.twimg.com/profile_images/1492723934/BonPilot_normal.jpg",
+         "source":"&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+         "text":"RT @mjgranger1: LIVE @ \u201DLet\u2019s Talk\u201D w/ Dr. Stan Frager WGTK 970 AM w/ Major Granger, author of \"Saving Grace at Guantanamo Bay\" http://t.co/F0e1ENA0 #NYC RT",
+         "to_user_id":null,
+         "to_user_id_str":null
+      },
+      {
+         "created_at":"Mon, 14 Nov 2011 02:26:43 +0000",
+         "entities":{
+            "urls":[
+               {
+                  "url":"http://t.co/Dmg24ba0",
+                  "expanded_url":"http://twitcam.livestream.com/78nyb",
+                  "display_url":"twitcam.livestream.com/78nyb",
+                  "indices":[
+                     79,
+                     99
+                  ]
+               }
+            ]
+         },
+         "from_user":"009Yanira",
+         "from_user_id":370301027,
+         "from_user_id_str":"370301027",
+         "geo":null,
+         "location":"Per\u00FA",
+         "id":135906474290450432,
+         "id_str":"135906474290450432",
+         "iso_language_code":"es",
+         "metadata":{
+            "result_type":"recent"
+         },
+         "profile_image_url":"http://a1.twimg.com/profile_images/1621434389/297904_280572925309503_100000703941795_916937_1039907596_n_normal.jpg",
+         "source":"&lt;a href=&quot;http://twitcam.com&quot; rel=&quot;nofollow&quot;&gt;Twitcam.com&lt;/a&gt;",
+         "text":"CESAR ESTA GRACE SP Y ANAI CLARA  LLASACE SIFUENTES ?!! (@CesarAndreeV live on http://t.co/Dmg24ba0)",
+         "to_user_id":null,
+         "to_user_id_str":null
+      },
+      {
+         "created_at":"Mon, 14 Nov 2011 02:26:39 +0000",
+         "entities":{
+
+         },
+         "from_user":"soccerrockmysox",
+         "from_user_id":403706481,
+         "from_user_id_str":"403706481",
+         "geo":null,
+         "id":135906460256317440,
+         "id_str":"135906460256317440",
+         "iso_language_code":"en",
+         "metadata":{
+            "result_type":"recent"
+         },
+         "profile_image_url":"http://a2.twimg.com/sticky/default_profile_images/default_profile_3_normal.png",
+         "source":"&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+         "text":"oh how boys ruin your bestfriend, sick and tired of them! i will always remeber..(: i love you anna grace soetaert through thick and thin 4u",
+         "to_user_id":null,
+         "to_user_id_str":null
+      },
+      {
+         "created_at":"Mon, 14 Nov 2011 02:26:39 +0000",
+         "entities":{
+
+         },
+         "from_user":"Wolbers_7",
+         "from_user_id":315417744,
+         "from_user_id_str":"315417744",
+         "geo":null,
+         "location":"Sydney, Australia",
+         "id":135906459522310144,
+         "id_str":"135906459522310144",
+         "iso_language_code":"en",
+         "metadata":{
+            "result_type":"recent"
+         },
+         "profile_image_url":"http://a1.twimg.com/profile_images/1460033456/6nj9KQSw_normal",
+         "source":"&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\u00DCberSocial for BlackBerry&lt;/a&gt;",
+         "text":"RT @BrianCHouston: Many of life's BIG issues are conceived, crafted & formed in personal issues. Ask for help -Read the word -Run to grace!",
+         "to_user_id":null,
+         "to_user_id_str":null
+      }
+   ],
+   "results_per_page":5,
+   "since_id":0,
+   "since_id_str":"0"
+}

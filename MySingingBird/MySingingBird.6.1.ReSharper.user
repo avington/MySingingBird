@@ -1,0 +1,639 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Helpers/f:NullCheckHelper.cs" caret="361" fromTop="6" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Controllers/f:FriendsController.cs" caret="960" fromTop="17" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Map/f:IAutoMapperTask.cs" caret="32" fromTop="0" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Startup/f:MySingingBirdRegistry.cs" caret="72" fromTop="2" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Startup/f:Bootstrapper.cs" caret="592" fromTop="17" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/f:Global.asax.cs" caret="1416" fromTop="20" />
+      <File id="14EAF3E9-95AA-4EE3-B193-3C6296F259C9/f:MapUserTest.cs" caret="0" fromTop="0" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Startup/f:MySingingBirdRegistry.asax.cs" caret="471" fromTop="13" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Map/f:SearchRequestProfile.cs" caret="864" fromTop="20" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Map/f:AutoMapperTask.cs" caret="421" fromTop="18" />
+      <File id="14EAF3E9-95AA-4EE3-B193-3C6296F259C9/f:AutoMapperTest.cs" caret="2169" fromTop="26" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Map/f:SearchResponseProfile.cs" caret="428" fromTop="15" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Services/f:TwitterSearchService.cs" caret="2652" fromTop="27" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Services/f:ITwitterSearchService.cs" caret="348" fromTop="10" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Geo/f:Index.cshtml" caret="215" fromTop="12" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Controllers/f:SearchController.cs" caret="1010" fromTop="34" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Content/f:Site.css" caret="3456" fromTop="24" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Map/f:MapStatus.cs" caret="1652" fromTop="25" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Entities/f:TwitterUser.cs" caret="1079" fromTop="17" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Services/f:AnalyzeStatusesService.cs" caret="1718" fromTop="3" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Services/f:MathService.cs" caret="278" fromTop="7" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Controllers/f:StatusController.cs" caret="0" fromTop="0" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Profile/f:Index.cshtml" caret="209" fromTop="0" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Http/f:HttpRequestResponse.cs" caret="397" fromTop="14" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Search/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Controllers/f:ProfileController.cs" caret="797" fromTop="19" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Search/f:List.cshtml" caret="663" fromTop="6" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:ViewModel/f:TwitterStatusViewModel.cs" caret="617" fromTop="18" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="1987" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Map/f:SearchResponseProfile.cs" caret="428" fromTop="15" />
+      <File id="14EAF3E9-95AA-4EE3-B193-3C6296F259C9/f:AutoMapperTest.cs" caret="2169" fromTop="35" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Services/f:TwitterSearchService.cs" caret="3514" fromTop="34" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Controllers/f:SearchController.cs" caret="462" fromTop="17" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Controllers/f:SearchController.cs" caret="674" fromTop="23" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Content/f:Site.css" caret="3463" fromTop="24" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="192" fromTop="16" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="2222" fromTop="31" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="192" fromTop="21" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="2222" fromTop="30" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="2222" fromTop="25" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="2218" fromTop="31" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="1171" fromTop="19" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Map/f:MapStatus.cs" caret="1423" fromTop="22" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Entities/f:TwitterUser.cs" caret="891" fromTop="14" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Services/f:AnalyzeStatusesService.cs" caret="1601" fromTop="20" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Services/f:AnalyzeStatusesService.cs" caret="2362" fromTop="16" />
+      <File id="A82F4F66-3E7F-49D2-9BB9-D840070026A6/d:Services/f:MathService.cs" caret="241" fromTop="6" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Profile/f:Index.cshtml" caret="816" fromTop="18" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Profile/f:Index.cshtml" caret="989" fromTop="22" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Search/f:List.cshtml" caret="225" fromTop="9" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="187" fromTop="5" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="1676" fromTop="24" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Controllers/f:ProfileController.cs" caret="929" fromTop="20" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="1605" fromTop="14" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Search/f:List.cshtml" caret="1077" fromTop="18" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Search/f:List.cshtml" caret="892" fromTop="15" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Search/f:List.cshtml" caret="1066" fromTop="11" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Views/d:Search/f:List.cshtml" caret="663" fromTop="6" />
+      <File id="D369AC52-B281-47DF-B2FA-662B471E419E/d:Scripts/f:base.js" caret="1987" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <UnitTestSessions>
+    <Session>
+      <Name>Session #1</Name>
+      <Elements>
+        <UnitTestElement Provider="MSTest" Id="MySingingBird.Tests.AutoMapperTest" type="MsTestTestClassElement" TypeName="MySingingBird.Tests.AutoMapperTest" Project="14EAF3E9-95AA-4EE3-B193-3C6296F259C9" />
+        <UnitTestElement Provider="MSTest" Id="MySingingBird.Tests.AutoMapperTest.Should_be_able_to_map_search_request_object_to_view_data" ParentId="MySingingBird.Tests.AutoMapperTest" type="MsTestTestMethodElement" MethodName="Should_be_able_to_map_search_request_object_to_view_data" Project="14EAF3E9-95AA-4EE3-B193-3C6296F259C9" />
+        <UnitTestElement Provider="MSTest" Id="MySingingBird.Tests.AutoMapperTest.Should_be_able_to_map_view_model_to_request" ParentId="MySingingBird.Tests.AutoMapperTest" type="MsTestTestMethodElement" MethodName="Should_be_able_to_map_view_model_to_request" Project="14EAF3E9-95AA-4EE3-B193-3C6296F259C9" />
+      </Elements>
+    </Session>
+  </UnitTestSessions>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="2429" />
+      <Item value="string" priority="3777" />
+      <Item value="HttpWebRequest`0" priority="161" />
+      <Item value="WebRequest`0" priority="63" />
+      <Item value="uri" priority="31" />
+      <Item value="as" priority="95" />
+      <Item value="this" priority="127" />
+      <Item value="IntPtr`0" priority="31" />
+      <Item value="intPtr" priority="91" />
+      <Item value="System" priority="124" />
+      <Item value="Runtime" priority="80" />
+      <Item value="InteropServices" priority="81" />
+      <Item value="Marshal`0" priority="80" />
+      <Item value="try" priority="127" />
+      <Item value="return" priority="1663" />
+      <Item value="returnValue" priority="63" />
+      <Item value="finally" priority="31" />
+      <Item value="auth" priority="26" />
+      <Item value="_appSettings" priority="612" />
+      <Item value="GetRequest`0" priority="26" />
+      <Item value="webProxy" priority="26" />
+      <Item value="Convert`0" priority="63" />
+      <Item value="new" priority="1026" />
+      <Item value="DateTime`0" priority="225" />
+      <Item value="TimeSpan`0" priority="31" />
+      <Item value="DateTimeKind`0" priority="31" />
+      <Item value="ToString`0" priority="31" />
+      <Item value="private" priority="669" />
+      <Item value="SortedDictionary" priority="63" />
+      <Item value="SortedDictionary&lt;string,string&gt;" priority="28" />
+      <Item value="oath" priority="31" />
+      <Item value="readonly" priority="573" />
+      <Item value="sortedDictionary" priority="31" />
+      <Item value="var" priority="638" />
+      <Item value="Url" priority="59" />
+      <Item value="Html" priority="29" />
+      <Item value="sb" priority="31" />
+      <Item value="Bootstrap" priority="30" />
+      <Item value="x" priority="190" />
+      <Item value="MySingingBirdRegistry`0" priority="31" />
+      <Item value="Scan`0" priority="31" />
+      <Item value="assemblyScanner" priority="159" />
+      <Item value="Controller`0" priority="31" />
+      <Item value="protected" priority="95" />
+      <Item value="override" priority="127" />
+      <Item value="ObjectFactory`0" priority="63" />
+      <Item value="controllerType" priority="95" />
+      <Item value="IController`0" priority="32" />
+      <Item value="catch" priority="95" />
+      <Item value="StructureMapException`0" priority="31" />
+      <Item value="throw" priority="127" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="_oauthService" priority="27" />
+      <Item value="NotImplementedException" priority="29" />
+      <Item value="_httpServer" priority="273" />
+      <Item value="const" priority="63" />
+      <Item value="stringBuilder" priority="186" />
+      <Item value="Uri`0" priority="159" />
+      <Item value="foreach" priority="189" />
+      <Item value="pair" priority="127" />
+      <Item value="base" priority="63" />
+      <Item value="TestInitialize" priority="62" />
+      <Item value="void" priority="159" />
+      <Item value="_target" priority="63" />
+      <Item value="OauthService" priority="28" />
+      <Item value="IAppSettings`0" priority="31" />
+      <Item value="TestClass" priority="31" />
+      <Item value="Assert`0" priority="191" />
+      <Item value="result" priority="415" />
+      <Item value="IOauthResourceService`0" priority="31" />
+      <Item value="_oauthResourceService" priority="91" />
+      <Item value="url" priority="127" />
+      <Item value="_AppDomain`0" priority="31" />
+      <Item value="authToken" priority="127" />
+      <Item value="if" priority="351" />
+      <Item value="authorizationHeaderParams" priority="31" />
+      <Item value="_httpRequestResponse" priority="188" />
+      <Item value="body" priority="31" />
+      <Item value="authorizationHeader" priority="63" />
+      <Item value="requestBody" priority="58" />
+      <Item value="request" priority="223" />
+      <Item value="GetResponse`0" priority="31" />
+      <Item value="using" priority="63" />
+      <Item value="HttpWebResponse`0" priority="64" />
+      <Item value="response" priority="191" />
+      <Item value="HttpStatusCode`0" priority="31" />
+      <Item value="ApplicationException" priority="28" />
+      <Item value="StreamReader`0" priority="31" />
+      <Item value="StreamReader" priority="28" />
+      <Item value="reader" priority="31" />
+      <Item value="else" priority="31" />
+      <Item value="null" priority="446" />
+      <Item value="_twitterService" priority="252" />
+      <Item value="View`0" priority="63" />
+      <Item value="Redirect`0" priority="63" />
+      <Item value="token" priority="31" />
+      <Item value="signingKey" priority="95" />
+      <Item value="signatureString" priority="96" />
+      <Item value="_signingHelper" priority="91" />
+      <Item value="MockRepository`0" priority="63" />
+      <Item value="ISigningHelper`0" priority="31" />
+      <Item value="ActionResult`0" priority="31" />
+      <Item value="IHttpServer`0" priority="62" />
+      <Item value="ViewData" priority="61" />
+      <Item value="screenName" priority="63" />
+      <Item value="baseUrl" priority="63" />
+      <Item value="e" priority="31" />
+      <Item value="bool" priority="501" />
+      <Item value="prop" priority="1311" />
+      <Item value="int" priority="407" />
+      <Item value="decimal" priority="31" />
+      <Item value="long" priority="62" />
+      <Item value="GCNotificationStatus`0" priority="31" />
+      <Item value="hwr" priority="31" />
+      <Item value="responseText" priority="158" />
+      <Item value="WebException`0" priority="31" />
+      <Item value="exception" priority="64" />
+      <Item value="requestContext" priority="31" />
+      <Item value="_mapUser" priority="63" />
+      <Item value="TwitterUser`0" priority="31" />
+      <Item value="TwitterUser" priority="28" />
+      <Item value="class" priority="62" />
+      <Item value="List" priority="31" />
+      <Item value="TwitterFollowers`0" priority="90" />
+      <Item value="d" priority="63" />
+      <Item value="user" priority="159" />
+      <Item value="List&lt;long&gt;" priority="57" />
+      <Item value="id" priority="63" />
+      <Item value="followers" priority="127" />
+      <Item value="TwitterFriends`0" priority="63" />
+      <Item value="TwitterFriends" priority="29" />
+      <Item value="_whosNotFollowing" priority="64" />
+      <Item value="TwitterFollowers" priority="28" />
+      <Item value="Ids" priority="31" />
+      <Item value="friends" priority="62" />
+      <Item value="false" priority="62" />
+      <Item value="isFollowing" priority="95" />
+      <Item value="friend" priority="31" />
+      <Item value="true" priority="162" />
+      <Item value="notFollowing" priority="63" />
+      <Item value="query" priority="30" />
+      <Item value="Latitude" priority="139" />
+      <Item value="Longitude" priority="148" />
+      <Item value="RadiusMiles" priority="87" />
+      <Item value="Until" priority="179" />
+      <Item value="SearchRequest`0" priority="58" />
+      <Item value="search" priority="320" />
+      <Item value="_twitterSearchService" priority="123" />
+      <Item value="SearchRequest" priority="115" />
+      <Item value="GeoInfoCode" priority="53" />
+      <Item value="GeoInfo" priority="86" />
+      <Item value="Q" priority="111" />
+      <Item value="ResultType" priority="111" />
+      <Item value="fullUrl" priority="127" />
+      <Item value="SearchResponse`0" priority="95" />
+      <Item value="searchResponse" priority="64" />
+      <Item value="IMapSearch`0" priority="31" />
+      <Item value="_mapSearch" priority="59" />
+      <Item value="List&lt;SearchResponse&gt;" priority="28" />
+      <Item value="list" priority="63" />
+      <Item value="item" priority="619" />
+      <Item value="in" priority="31" />
+      <Item value="Model" priority="31" />
+      <Item value="FromUserName" priority="3" />
+      <Item value="SearchResponse" priority="28" />
+      <Item value="IList" priority="31" />
+      <Item value="static" priority="63" />
+      <Item value="AutoMapperTask`0" priority="95" />
+      <Item value="Initialize`0" priority="31" />
+      <Item value="MappingOperationOptions`0" priority="31" />
+      <Item value="map" priority="31" />
+      <Item value="Profile`0" priority="31" />
+      <Item value="Mapper`0" priority="122" />
+      <Item value="dest" priority="63" />
+      <Item value="option" priority="63" />
+      <Item value="src" priority="191" />
+      <Item value="T`0" priority="94" />
+      <Item value="where" priority="31" />
+      <Item value="property" priority="159" />
+      <Item value="TestMethod" priority="95" />
+      <Item value="AutoMapperTask" priority="58" />
+      <Item value="task" priority="31" />
+      <Item value="SearchProfile`0" priority="62" />
+      <Item value="ShowUser" priority="83" />
+      <Item value="DateTime" priority="57" />
+      <Item value="IBootstrapper`0" priority="31" />
+      <Item value="Bootstrapper`0" priority="31" />
+      <Item value="mapper" priority="31" />
+      <Item value="TwitterSearchViewModel" priority="57" />
+      <Item value="HttpPost" priority="31" />
+      <Item value="GeoInfo`0" priority="94" />
+      <Item value="CreateMap`2" priority="31" />
+      <Item value="TwitterSearchViewModel`0" priority="95" />
+      <Item value="EnvironmentVariableTarget`0" priority="63" />
+      <Item value="RedirectToActionPermanent`0" priority="31" />
+      <Item value="WorkItemAttribute`0" priority="63" />
+      <Item value="Search`0" priority="31" />
+      <Item value="HttpGet" priority="31" />
+      <Item value="JsonResult`0" priority="31" />
+      <Item value="Json`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="300" />
+      <Item value="IsNullOrEmpty`0" priority="107" />
+      <Item value="Format`0" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Runtime.InteropServices.Marshal">
+      <Item value="SecureStringToBSTR`0" priority="26" />
+      <Item value="PtrToStringBSTR`0" priority="27" />
+      <Item value="ZeroFreeBSTR`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="UTF8" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetBytes`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToCharArray`0" priority="22" />
+      <Item value="Substring`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="Headers" priority="22" />
+      <Item value="GetResponse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Application.IAppSettings">
+      <Item value="TwitterBaseUrl" priority="22" />
+      <Item value="UserName" priority="22" />
+      <Item value="Password" priority="22" />
+      <Item value="OathVersion" priority="53" />
+      <Item value="ConsumerKey" priority="80" />
+      <Item value="OathNonce" priority="53" />
+      <Item value="OathSignatureMethod" priority="53" />
+      <Item value="OathTimeSpan" priority="26" />
+      <Item value="OathTotalSeconds" priority="26" />
+      <Item value="OathTimeStamp" priority="54" />
+      <Item value="Expect`1" priority="26" />
+      <Item value="AthorizeUrl" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.HttpWebRequest">
+      <Item value="DefaultWebProxy" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToBase64CharArray`0" priority="27" />
+      <Item value="ToBase64String`0" priority="22" />
+      <Item value="ToInt64`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.ASCIIEncoding">
+      <Item value="GetBytes`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="82" />
+      <Item value="UtcNow" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Ticks" priority="26" />
+      <Item value="ToString`0" priority="53" />
+      <Item value="AddHours`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTimeKind">
+      <Item value="Utc" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Application.AppSettings">
+      <Item value="OathTimeSpan" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.SortedDictionary`2">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="Url" priority="17" />
+      <Item value="Html" priority="9" />
+      <Item value="ViewData" priority="7" />
+      <Item value="foreach" priority="7" />
+      <Item value="item" priority="63" />
+      <Item value="string" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.UrlHelper">
+      <Item value="Action`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="ActionLink`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Services.OauthService">
+      <Item value="GetOathSettings`0" priority="26" />
+      <Item value="RequestTokenString`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@StructureMap.ObjectFactory">
+      <Item value="Initialize`0" priority="26" />
+      <Item value="GetInstance`0" priority="27" />
+      <Item value="GetInstance`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.IInitializationExpression">
+      <Item value="AddRegistry`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StructureMap.Graph.IAssemblyScanner">
+      <Item value="TheCallingAssembly`0" priority="54" />
+      <Item value="Assembly`0" priority="26" />
+      <Item value="WithDefaultConventions`0" priority="26" />
+      <Item value="AddAllTypesOf`0" priority="27" />
+      <Item value="AddAllTypesOf`1" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.ControllerBuilder">
+      <Item value="Current" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.ControllerBuilder">
+      <Item value="SetControllerFactory`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="Server" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpServerUtility">
+      <Item value="UrlEncode`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Http.IHttpServer">
+      <Item value="UrlEncode`0" priority="76" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="80" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="Length" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Uri">
+      <Item value="EscapeDataString`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="53" />
+      <Item value="Value" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateMock`1" priority="76" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsTrue`0" priority="53" />
+      <Item value="IsFalse`0" priority="22" />
+      <Item value="IsNotNull`0" priority="53" />
+      <Item value="AreEqual`1" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Services.IOauthResourceService">
+      <Item value="BuildRequestTokenString`0" priority="26" />
+      <Item value="BuildOauthAuthorizationParameters`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Http.IHttpRequestResponse">
+      <Item value="GetResponse`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebResponse">
+      <Item value="StatusCode" priority="53" />
+      <Item value="GetResponseStream`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.HttpStatusCode">
+      <Item value="OK" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Services.ITwitterService">
+      <Item value="RequestToken`0" priority="22" />
+      <Item value="GetFollowers`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalSeconds" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Security.ISigningHelper">
+      <Item value="SignKey`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebException">
+      <Item value="Message" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.DefaultControllerFactory">
+      <Item value="GetControllerInstance`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Map.IMapUser">
+      <Item value="Map`0" priority="26" />
+      <Item value="MapFollowers`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Entities.TwitterFollowers">
+      <Item value="PreviousCursor" priority="26" />
+      <Item value="Ids" priority="135" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Entities.TwitterFriends">
+      <Item value="Ids" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Services.IWhosNotFollowing">
+      <Item value="Validate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="53" />
+      <Item value="HasValue" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Entities.SearchRequest">
+      <Item value="Q" priority="53" />
+      <Item value="ResultType" priority="53" />
+      <Item value="GeoInfoCode" priority="269" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Services.ITwitterSearchService">
+      <Item value="GetUser`0" priority="22" />
+      <Item value="Search`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Entities.GeoInfo">
+      <Item value="Latitude" priority="107" />
+      <Item value="Code" priority="26" />
+      <Item value="Longitude" priority="27" />
+      <Item value="RadiusMiles" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Map.IMapSearch">
+      <Item value="Map`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Entities.SearchResponse">
+      <Item value="FromLocation" priority="53" />
+      <Item value="FromProfileImage" priority="26" />
+      <Item value="FromUserId" priority="26" />
+      <Item value="FromUserName" priority="134" />
+      <Item value="Text" priority="53" />
+      <Item value="ToLocation" priority="26" />
+      <Item value="ToProfileImage" priority="26" />
+      <Item value="ToUserId" priority="26" />
+      <Item value="ToUserName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="ul" priority="5" />
+      <Item value="br" priority="11" />
+      <Item value="img" priority="5" />
+      <Item value="src" priority="5" />
+      <Item value="id" priority="23" />
+      <Item value="search_form" priority="29" />
+      <Item value="a" priority="5" />
+      <Item value="href" priority="5" />
+      <Item value="Index.cshtml" priority="5" />
+      <Item value="class" priority="6" />
+      <Item value="ui-state-error" priority="12" />
+      <Item value="name" priority="5" />
+      <Item value="item" priority="23" />
+      <Item value="div" priority="17" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AutoMapper.Mapper">
+      <Item value="Initialize`0" priority="49" />
+      <Item value="CreateMap`0" priority="26" />
+      <Item value="CreateMap`2" priority="22" />
+      <Item value="Map`2" priority="26" />
+      <Item value="Map`1" priority="108" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.IConfiguration">
+      <Item value="AddProfile`0" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.IMappingExpression`2">
+      <Item value="ForMember`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.ViewModel.TwitterSearchViewModel">
+      <Item value="Latitude" priority="53" />
+      <Item value="Longitude" priority="26" />
+      <Item value="RadiusMiles" priority="22" />
+      <Item value="Q" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.IMemberConfigurationExpression`1">
+      <Item value="MapFrom`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="With`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Map.AutoMapperTask">
+      <Item value="Execute`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Map.IAutoMapperTask">
+      <Item value="Execute`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="$" priority="129" />
+      <Item value="document" priority="10" />
+      <Item value="function" priority="164" />
+      <Item value="var" priority="76" />
+      <Item value="alert" priority="10" />
+      <Item value="twitterMap" priority="43" />
+      <Item value="null" priority="21" />
+      <Item value="$maps" priority="9" />
+      <Item value="if" priority="21" />
+      <Item value="index" priority="10" />
+      <Item value="console" priority="120" />
+      <Item value="object" priority="32" />
+      <Item value="jQuery" priority="10" />
+      <Item value="return" priority="21" />
+      <Item value="this" priority="10" />
+      <Item value="userRow" priority="216" />
+      <Item value="e" priority="10" />
+      <Item value="a" priority="10" />
+      <Item value="data" priority="43" />
+      <Item value="$row" priority="59" />
+      <Item value="$newRow" priority="30" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContextQualified">
+      <Item value="ready" priority="8" />
+      <Item value="prototype" priority="34" />
+      <Item value="onViewChangeEnd" priority="8" />
+      <Item value="each" priority="18" />
+      <Item value="_map" priority="17" />
+      <Item value="log" priority="98" />
+      <Item value="val" priority="18" />
+      <Item value="fn" priority="8" />
+      <Item value="searchTable" priority="18" />
+      <Item value="clearQueue" priority="9" />
+      <Item value="on" priority="9" />
+      <Item value="getJSON" priority="8" />
+      <Item value="attr" priority="8" />
+      <Item value="Initialize" priority="8" />
+      <Item value="Success" priority="17" />
+      <Item value="parent" priority="18" />
+      <Item value="find" priority="8" />
+      <Item value="append" priority="17" />
+      <Item value="appendTo" priority="17" />
+      <Item value="after" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="top" priority="5" />
+      <Item value="margin" priority="5" />
+      <Item value="widows" priority="5" />
+      <Item value="width" priority="5" />
+      <Item value="search-table-list" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MySingingBird.Core.Entities.TwitterUser">
+      <Item value="Following" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.JsonRequestBehavior">
+      <Item value="AllowGet" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

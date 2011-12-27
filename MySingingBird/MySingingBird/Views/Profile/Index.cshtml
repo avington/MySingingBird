@@ -1,0 +1,43 @@
+﻿@model MySingingBird.Core.ViewModel.TwitterStatusViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<fieldset>
+    <legend>User</legend>
+    <div class="display-label">PercentReplies</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UserScreenName)
+    </div>
+    <div class="display-field">
+        Following: @Html.DisplayFor(model => model.FollowerCount) Friends: @Html.DisplayFor(model => model.FreindCount)
+    </div>
+    <div class="display-field">
+       <img src="@Html.DisplayFor(model => model.UserScreenImage)" alt="@Html.DisplayFor(model => model.PercentReplies)"/> 
+    </div>
+    <div class="display-label">Total Tweets Analyzes</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.TotalTweetsAnalyzed)
+    </div>
+
+    <div class="display-label">PercentRepliesFormatted</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PercentRepliesFormatted)
+    </div>
+
+    <div class="display-label">PercentRetweetedFormated</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PercentRetweetedFormated)
+    </div>
+    @foreach (var item in Model.UsersReplied)
+    {
+        <span class="profile_mentions">@item</span>
+    }
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

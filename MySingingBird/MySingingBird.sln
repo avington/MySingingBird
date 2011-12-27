@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySingingBird", "MySingingBird\MySingingBird.csproj", "{D369AC52-B281-47DF-B2FA-662B471E419E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySingingBird.Tests", "MySingingBird.Tests\MySingingBird.Tests.csproj", "{14EAF3E9-95AA-4EE3-B193-3C6296F259C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySingingBird.Core", "MySingingBird.Core\MySingingBird.Core.csproj", "{A82F4F66-3E7F-49D2-9BB9-D840070026A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D369AC52-B281-47DF-B2FA-662B471E419E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D369AC52-B281-47DF-B2FA-662B471E419E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D369AC52-B281-47DF-B2FA-662B471E419E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D369AC52-B281-47DF-B2FA-662B471E419E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14EAF3E9-95AA-4EE3-B193-3C6296F259C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EAF3E9-95AA-4EE3-B193-3C6296F259C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EAF3E9-95AA-4EE3-B193-3C6296F259C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EAF3E9-95AA-4EE3-B193-3C6296F259C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82F4F66-3E7F-49D2-9BB9-D840070026A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82F4F66-3E7F-49D2-9BB9-D840070026A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82F4F66-3E7F-49D2-9BB9-D840070026A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82F4F66-3E7F-49D2-9BB9-D840070026A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="94922f21-d0a1-4edd-aef4-64a9828e09d9" name="stevenmo@STEVENMO-HP 2011-11-12 10:32:09" runUser="stevenmo-HP\stevenmo" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="975f6f52-e93b-469b-b96b-fc6d273eb97f">
+    <Deployment runDeploymentRoot="stevenmo_STEVENMO-HP 2011-11-12 10_32_09">
+      <DeploymentItem filename="C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird\bin\MySingingBird.dll" />
+      <DeploymentItem filename="C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\packages\EntityFramework.4.2.0.0\lib\net40\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\packages\Machine.Specifications.0.4.24.0\lib\Machine.Specifications.dll" />
+      <DeploymentItem filename="C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\packages\RhinoMocks.3.6\lib\Rhino.Mocks.dll" />
+      <DeploymentItem filename="C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird.Core\bin\Debug\MySingingBird.Core.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-11-12T10:32:09.7127836-05:00" queuing="2011-11-12T10:32:09.8977942-05:00" start="2011-11-12T10:32:09.9047946-05:00" finish="2011-11-12T10:32:10.1908110-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="STEVENMO-HP" outcome="Warning" timestamp="2011-11-12T10:32:09.8977942-05:00">
+        <Text>Warning: Test Run deployment issue: The assembly or module 'MySql.Data' directly or indirectly referenced by the test container 'c:\users\stevenmo\documents\visual studio 2010\projects\mysingingbird\mysingingbird.tests\bin\debug\mysingingbird.tests.dll' was not found.</Text>
+      </RunInfo>
+      <RunInfo computerName="STEVENMO-HP" outcome="Warning" timestamp="2011-11-12T10:32:09.8977942-05:00">
+        <Text>Warning: Test Run deployment issue: The assembly or module 'Npgsql' directly or indirectly referenced by the test container 'c:\users\stevenmo\documents\visual studio 2010\projects\mysingingbird\mysingingbird.tests\bin\debug\mysingingbird.tests.dll' was not found.</Text>
+      </RunInfo>
+      <RunInfo computerName="STEVENMO-HP" outcome="Warning" timestamp="2011-11-12T10:32:09.8977942-05:00">
+        <Text>Warning: Test Run deployment issue: The assembly or module 'System.Data.SQLite' directly or indirectly referenced by the test container 'c:\users\stevenmo\documents\visual studio 2010\projects\mysingingbird\mysingingbird.tests\bin\debug\mysingingbird.tests.dll' was not found.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Index" storage="c:\users\stevenmo\documents\visual studio 2010\projects\mysingingbird\mysingingbird.tests\bin\debug\mysingingbird.tests.dll" id="5d00272c-d201-5282-ea63-39a1fa9bfc22">
+      <Execution id="2ee3e498-159c-4932-8666-415b3404d33f" />
+      <TestMethod codeBase="C:/Users/stevenmo/Documents/Visual Studio 2010/Projects/MySingingBird/MySingingBird.Tests/bin/Debug/MySingingBird.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MySingingBird.Tests.Controllers.HomeControllerTest, MySingingBird.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Index" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5d00272c-d201-5282-ea63-39a1fa9bfc22" executionId="2ee3e498-159c-4932-8666-415b3404d33f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2ee3e498-159c-4932-8666-415b3404d33f" testId="5d00272c-d201-5282-ea63-39a1fa9bfc22" testName="Index" computerName="STEVENMO-HP" duration="00:00:00.0638877" startTime="2011-11-12T10:32:09.9057947-05:00" endTime="2011-11-12T10:32:10.1778102-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2ee3e498-159c-4932-8666-415b3404d33f">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Welcome to ASP.NET MVC!&gt;. Actual:&lt;Welcome to My Singing Bird!&gt;. </Message>
+          <StackTrace>   at CallSite.Target(Closure , CallSite , Type , String , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecuteVoid3[T0,T1,T2](CallSite site, T0 arg0, T1 arg1, T2 arg2)
+   at MySingingBird.Tests.Controllers.HomeControllerTest.Index() in C:\Users\stevenmo\Documents\Visual Studio 2010\Projects\MySingingBird\MySingingBird.Tests\Controllers\HomeControllerTest.cs:line 25
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

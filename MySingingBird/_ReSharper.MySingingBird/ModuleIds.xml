@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="D369AC52-B281-47DF-B2FA-662B471E419E" ModuleId="MySingingBird" />
+  <Module PersistentId="A82F4F66-3E7F-49D2-9BB9-D840070026A6" ModuleId="MySingingBird.Core" />
+  <Module PersistentId="14EAF3E9-95AA-4EE3-B193-3C6296F259C9" ModuleId="MySingingBird.Tests" />
+</Modules>

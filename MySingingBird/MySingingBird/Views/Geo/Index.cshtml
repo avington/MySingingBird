@@ -1,0 +1,18 @@
+﻿@using MySingingBird.Core.Entities
+@model List<SearchResponse>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<ul>
+@foreach (var item in Model)
+{
+   <li>@item.FromUserName <br/>
+    <img src="@item.FromProfileImage"/><br/>
+    @item.Text
+   </li>
+}
+</ul>
